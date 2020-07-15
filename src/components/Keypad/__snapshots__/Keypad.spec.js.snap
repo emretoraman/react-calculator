@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Keypad should render correctly 1`] = `
+<div
+  className="keypad-container"
+>
+  <div
+    className="numbers-container"
+  />
+  <div
+    className="operators-container"
+  />
+  <div
+    className="submit-container"
+  >
+    <Key
+      keyAction={[MockFunction]}
+      keyType="submit-key"
+      keyValue="="
+    />
+  </div>
+</div>
+`;
